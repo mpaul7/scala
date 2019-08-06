@@ -3,6 +3,7 @@ package com.scala.basic
 object TypeBasics {
   def main(args : Array[String]){
     // Immutable variable
+    // The value of x cannot be changed
     val x :Int =123;
     println("The value of x : " + x);
     
